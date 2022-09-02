@@ -189,10 +189,6 @@ footer {
 }
 
 @media (min-width: 1200px) {
-  body {
-    overflow-y: hidden;
-  }
-
   main {
     max-width: 120rem;
     margin: 3.2rem auto 0;
